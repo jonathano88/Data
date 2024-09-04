@@ -1,0 +1,33 @@
+,MOZ_Value,MOZ_Description,MOZ_Status,EC_Value,EC_Description,EC_Status
+0,short_desc,Summary (Full),Selected,short_desc,Summary (Full),Selected
+1,product,Product,Selected,product,Product,Selected
+2,component,Component,Selected,component,Component,Selected
+3,assigned_to,Assignee,Selected,assigned_to,Assignee,Selected
+4,bug_status,Status,Selected,bug_status,Status,Selected
+5,resolution,Resolution,Selected,resolution,Resolution,Selected
+6,changeddate,Updated,Selected,changeddate,Changed,Selected
+7,alias,Alias,Not Selected,alias,Alias,Not Selected
+8,assigned_to_realname,Assignee Real Name,Not Selected,assigned_to_realname,Assignee Real Name,Not Selected
+9,blocked,Blocks,Not Selected,blocked,Blocks,Not Selected
+10,bug_id,Bug ID,Not Selected,bug_id,Bug ID,Not Selected
+11,classification,Classification,Not Selected,classification,Classification,Not Selected
+12,dependson,Depends on,Not Selected,dependson,Depends on,Not Selected
+13,flagtypes.name,Flags,Not Selected,flagtypes.name,Flags,Not Selected
+14,rep_platform,Hardware,Not Selected,rep_platform,Hardware,Not Selected
+15,keywords,Keywords,Not Selected,keywords,Keywords,Not Selected
+16,last_visit_ts,Last Visit,Not Selected,last_visit_ts,Last Visit,Not Selected
+17,longdescs.count,Number of Comments,Not Selected,longdescs.count,Number of Comments,Not Selected
+18,opendate,Opened,Not Selected,opendate,Opened,Not Selected
+19,op_sys,OS,Not Selected,op_sys,OS,Not Selected
+20,priority,Priority,Not Selected,priority,Priority,Not Selected
+21,qa_contact,QA Contact,Not Selected,qa_contact,QA Contact,Not Selected
+22,qa_contact_realname,QA Contact Real Name,Not Selected,qa_contact_realname,QA Contact Real Name,Not Selected
+23,reporter,Reporter,Not Selected,reporter,Reporter,Not Selected
+24,reporter_realname,Reporter Real Name,Not Selected,reporter_realname,Reporter Real Name,Not Selected
+25,bug_severity,Severity,Not Selected,bug_severity,Severity,Not Selected
+26,short_short_desc,Summary (first 60 characters),Not Selected,short_short_desc,Summary (first 60 characters),Not Selected
+27,target_milestone,Target Milestone,Not Selected,target_milestone,Target Milestone,Not Selected
+28,bug_file_loc,URL,Not Selected,bug_file_loc,URL,Not Selected
+29,version,Version,Not Selected,version,Version,Not Selected
+30,votes,Votes,Not Selected,votes,Votes,Not Selected
+31,status_whiteboard,Whiteboard,Not Selected,status_whiteboard,Whiteboard,Not Selected
